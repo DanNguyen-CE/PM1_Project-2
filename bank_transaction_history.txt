@@ -1,2 +1,0 @@
-
- Action		Amount			Balance			Date		Time
