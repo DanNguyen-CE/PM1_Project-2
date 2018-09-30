@@ -16,6 +16,8 @@ between 4 stock.txt files that contains different stock prices but the same stoc
 to display the current portfolio and also contain basic banking features such as withdrawing and depositing.
 All transactions must then be saved on a .txt file where I can access and display it when called for.
 
+See instruction PDFs for more details.
+
 Rutgers University NB
 2017
 ```
