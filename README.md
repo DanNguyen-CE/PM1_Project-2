@@ -1,6 +1,6 @@
 # **PM1_Project-2**
 
-## Mock Stock & Bank System
+## Model Stock & Bank System
 
 > Grade: A+
 
